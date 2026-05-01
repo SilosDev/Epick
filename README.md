@@ -1,18 +1,11 @@
 # Epick
 
-A modern C# application built with best practices and clean architecture principles.
+DDos App With Proxy
 
 ## About
 
-Epick is a professional C# application designed to provide robust functionality with a focus on code quality, maintainability, and performance.
 
 ## Features
-
-- 🚀 High-performance C# implementation
-- 🏗️ Clean architecture principles
-- 📝 Well-documented codebase
-- ✅ Comprehensive testing
-- 🔧 Easy to extend and maintain
 
 ## Prerequisites
 
